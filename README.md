@@ -1,7 +1,7 @@
 
 ## Deploy in One Click
 
-[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/BigSmokeCuba/tguploaderv8okteto)
+[![Deploy to Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/Leotr86/descarga7)
 5
 
 )
